@@ -57,6 +57,13 @@ a {
 	overflow: auto;
 	width: 1024px;
 }
+
+input[type=submit] {
+	border: 1px solid white;
+	background-color: #6263E5;
+	color: white;
+}
+
 section {
 	float: left;
 	width: 500px;
